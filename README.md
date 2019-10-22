@@ -7,7 +7,7 @@
 
 ## My Blog
 
-Think ML - https://goodboyanush.github.io/
+https://github.com/Abhishekb102/ML-1/blob/master/README.md
 
 ## Course Overview
 
