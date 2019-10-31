@@ -8,6 +8,7 @@
 ## My Blog
 
 https://medium.com/@abhishekb.isme1820/ml-introduction-99ad5ff20179
+https://medium.com/@abhishekb.isme1820/linear-regression-vs-logistic-regression-aec46545e6dd
 
 
 ## Course Overview
