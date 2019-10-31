@@ -7,7 +7,8 @@
 
 ## My Blog
 
-https://github.com/Abhishekb102/ML-1/blob/master/README.md
+https://medium.com/@abhishekb.isme1820/ml-introduction-99ad5ff20179
+
 
 ## Course Overview
 
