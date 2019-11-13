@@ -10,6 +10,7 @@
 https://medium.com/@abhishekb.isme1820/ml-introduction-99ad5ff20179
 https://medium.com/@abhishekb.isme1820/linear-regression-vs-logistic-regression-aec46545e6dd
 https://medium.com/@abhishekb.isme1820/neural-network-1aa68e87c954
+https://medium.com/@abhishekb.isme1820/yeast-html-84c0147e0f2c
 
 
 ## Course Overview
